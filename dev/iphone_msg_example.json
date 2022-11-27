@@ -1,0 +1,45 @@
+{
+	"iPhoneID": "F42931FC-E3D4-44D0-8525-C4D831BABA28",
+	"iPhoneName": "iPhone",
+	"Model": "iPhone14,3",
+	"Settings": {
+		"OnIncoming": false,
+		"Interval": true,
+		"IntervalOnChange": true,
+		"IntervalCycle": 100,
+		"Threshold": false,
+		"ThresholdValue": 45.0
+	},
+	"Rotation": {
+		"RotationRoll": 0,
+		"RotationPitch": 2,
+		"RotationYaw": 0
+	},
+	"Orientation": {
+		"Yaw": -2,
+		"Pitch": 56,
+		"Roll": 10
+	},
+	"Acceleration": {
+		"LinearX": 0,
+		"LinearY": 0,
+		"LinearZ": 0
+	},
+	"Gravity": {
+		"GravityX": 5,
+		"GravityY": -47,
+		"GravityZ": -31
+	},
+	"Magneticfield": {
+		"AxisX": 0,
+		"AxisY": 0,
+		"AxisZ": 0
+	},
+	"GPS": {
+		"Altitude": 259.137752532959,
+		"Latitude": 48.887764642492584,
+		"Longitude": 8.708471792467767
+	},
+	"Battery": 100,
+	"Timestamp": "2022-11-23T14:40:27.5920+0100"
+}
