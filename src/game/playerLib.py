@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+#
+# Contributors:
+#    Steffen Reichert - initial implementation  
+#    Ondrej Kyjanek <ondrej.kyjanek@gmail.com>
+
 import pygame
 
 def drawRectPlayer(screen,color,posX,posY,sizeX,sizeY):

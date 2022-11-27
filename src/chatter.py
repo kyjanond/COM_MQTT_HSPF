@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+#
+# Contributors:
+#    Ondrej Kyjanek <ondrej.kyjanek@gmail.com> - initial implementation
 
 import paho.mqtt.client as mqttc
 import paho.mqtt.properties as properties

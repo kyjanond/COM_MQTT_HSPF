@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+#
+# Contributors:
+#    Steffen Reichert - initial implementation  
+#    Ondrej Kyjanek <ondrej.kyjanek@gmail.com> 
+
 # UPDATE DIRECTORY
 import os
 directory = os.path.dirname(os.path.abspath(__file__))
